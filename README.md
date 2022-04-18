@@ -8,19 +8,19 @@ Usage of WhatsHack for attacking targets without prior mutual consent is illegal
 
 
 #
-pkg update
+apt update
 
 
-pkg upgrade
+apt upgrade
 
-pkg install apksigner
-
-
-pkg install php
+# install apksigner
 
 
+# install php
 
-pkg install gradle
+
+
+# install gradle
 
 
 git clone https://github.com/DRACULA-HACK/Whatsapp_hack.0.1
@@ -64,9 +64,9 @@ Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 Run script:
-# git clone https://github.com/ZheHack/whatshack
-# cd whatshack/
-# bash whatshack.sh
+# git clone https://github.com/DRACULA-HACK/Whatsapp_hack.0.1
+# cd Whatsapp_hack.0.1
+# bash Whatsapphack.sh
 
 
 On First Time, Choose "n" when asks to build, then open the project on Android Studio:
