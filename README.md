@@ -56,17 +56,17 @@ For AMD64 Arch, Install Android Studio dependencies:
 # apt-get install lib32z1 lib32ncurses6 lib32stdc++6
 
 
-Run Android Studio:
-# cd /opt/android-studio/bin
-# ./studio.sh
+# Run Android Studio:
+ cd /opt/android-studio/bin
+ ./studio.sh
 
 Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
-Run script:
-# git clone https://github.com/DRACULA-HACK/Whatsapp_hack.0.1
-# cd Whatsapp_hack.0.1
-# bash Whatsapphack.sh
+# Run script:
+ git clone https://github.com/DRACULA-HACK/Whatsapp_hack.0.1
+ cd Whatsapp_hack.0.1
+ bash Whatsapphack.sh
 
 
 On First Time, Choose "n" when asks to build, then open the project on Android Studio:
@@ -88,4 +88,4 @@ change gradle version from: 3.4.1 to: 2.2.0
 save and exit.
 
 Run script (as root):
-# bash whatshack.sh
+# bash Whatsapphack.sh
