@@ -46,6 +46,8 @@ printf "    \_/\_/  |_| |_|\__,_|\__|___/_| |_|\__,_|\___|_|\_\ v1.0\e[0m\n"
 printf "\n"
 printf "     \e[1;92mAuthor: https://github.com/DRACULA-HACK\n\e[0m"
 printf "\n"
+printf "     \e[1;92mby: MASTER-HACK\n\e[0m"
+printf "\n"
 }
 
 createapp() {
