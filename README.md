@@ -18,7 +18,7 @@ apt upgrade
 
 # install php
 
-
+# install ssh
 
 # install gradle
 
