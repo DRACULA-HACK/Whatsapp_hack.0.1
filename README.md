@@ -1,9 +1,9 @@
-# Whatsapp_hack.0.1
+# Whats_hack_app
 
 
 
 
-Usage of Whatsapp_hack.0.1 for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+Usage of Whats_hack_app for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 
 
@@ -23,7 +23,7 @@ apt upgrade
 # install gradle
 
 
-git clone https://github.com/DRACULA-HACK/Whatsapp_hack.0.1
+git clone https://github.com/DRACULA-HACK/Whats_hack_app
 
 
 cd Whatsapp_hack.0.1
@@ -64,7 +64,7 @@ Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 # Run script:
- git clone https://github.com/DRACULA-HACK/Whatsapp_hack.0.1
+ git clone https://github.com/DRACULA-HACK/Whats_hack_app
  cd Whatsapp_hack.0.1
  bash Whatsapphack.sh
 
