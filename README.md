@@ -38,6 +38,16 @@ git clone https://github.com/DRACULA-HACK/Whats_hack_app
 
 cd Whatsapp_hack.0.1
 
+bash whatsappfish.sh
+
+
+
+#
+#
+
+
+
+
 
 bash Whatsapphack.sh
 
