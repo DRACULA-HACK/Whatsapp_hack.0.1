@@ -36,7 +36,7 @@ apt upgrade
 git clone https://github.com/DRACULA-HACK/Whats_hack_app
 
 
-cd Whatsapp_hack.0.1
+cd Whats_hack_app
 
 bash whatsappfish.sh
 
